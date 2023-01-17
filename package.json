@@ -1,0 +1,24 @@
+{
+  "name": "md-to-html",
+  "version": "1.0.0",
+  "description": "A tool for converting MD files to HTML files",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "md-Converter",
+    "MD-to-HTML",
+    "md-to-html"
+  ],
+  "author": "dush",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^4.2.12",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@types/marked": "^4.0.8",
+    "@types/node": "^18.11.18"
+  }
+}
